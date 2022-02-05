@@ -4,6 +4,9 @@
 
 Learn how to convert a UI Design of a Smart Home App to HTML5 and CSS3 using Tailwind CSS. Don't forget to like, share and subscribe if you found the video helpful.
 
+Playlist of this series:
+https://www.youtube.com/playlist?list=PL1deGqcRrtmIrjzeVE8r7bC4ZAIACRbA1
+
 For video tutorial of this app:
 https://youtu.be/tRVC82O7pBM
 
